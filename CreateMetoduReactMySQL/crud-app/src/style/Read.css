@@ -1,0 +1,39 @@
+.readContainer{
+    display: flex;
+    height: 100%;
+    justify-content: center;
+}
+table {
+    border-collapse: collapse;
+    background-color: 
+#fff;
+  }
+  table tr, table td, table th {
+    border: 1px solid 
+#bbb;
+    padding: 10px 20px;
+  }
+  table th {
+    background-color: 
+#d1084b;
+    color: 
+#fff;
+    font-weight: 600;
+  }
+                
+.btnCreate{
+    width: 200px;
+    height: 50px;
+    font-size: 15px;
+    font-weight: 600;
+    border-radius: 5px;
+    border: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: aliceblue;
+    background-color: rgb(36, 177, 83);
+}
+.btnCreate:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+}
